@@ -1,3 +1,5 @@
+// Ignore this
+
 import React, { Component } from 'react';
 
 class ThemeSwitcher extends Component {

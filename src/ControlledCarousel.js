@@ -2,7 +2,7 @@ import React, { Component, useState } from 'react'
 import { SplitButton, Dropdown, DropdownButton, Carousel, Card, Col, Image, Container, Row } from 'react-bootstrap';
 
 
-
+//this is using react bootstrap to animate the carousel
    
     function ControlledCarousel() {
         const [index, setIndex] = useState(0);
@@ -77,12 +77,10 @@ import { SplitButton, Dropdown, DropdownButton, Carousel, Card, Col, Image, Cont
           <br/>
        
               <Carousel.Caption>
-                
                 <h3>Third slide label</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
               </Carousel.Caption>
             </Carousel.Item>
-           
           </Carousel>
           </>
         );

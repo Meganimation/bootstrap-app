@@ -12,10 +12,8 @@ export default class Home extends Component {
             <Header/>    
             <Container>
             <br/><br/><br/><br/>
-
-</Container>
+            </Container>
             <ControlledCarousel />
-      
           </>
         )
     }

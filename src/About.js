@@ -21,11 +21,9 @@ export default class About extends Component {
     render() {
         return (
             <>
-    
               <Header/>    
               <Container>
               <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
               <div><div class="jumbotron">
   <h1 class="display-4"><div class="text-center">About Us</div></h1>
   <br/><br/><br/>
